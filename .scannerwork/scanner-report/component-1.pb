@@ -1,0 +1,2 @@
+sonarFra : 	
+'B+'https://github.com/projectISPW/sonarFraB.*https://travis-ci.org/projectISPW/sonarFraB2.https://github.com/projectISPW/sonarFra/issuesB+'https://github.com/projectISPW/sonarFraRprojectISPW_sonarFra

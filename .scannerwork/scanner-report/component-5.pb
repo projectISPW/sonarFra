@@ -1,0 +1,1 @@
+ 2xmlXÔhr"calcolatrice/.idea/dbnavigator.xml

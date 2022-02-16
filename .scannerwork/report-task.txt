@@ -1,0 +1,7 @@
+organization=projectispw-1
+projectKey=projectISPW_sonarFra
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.26793
+dashboardUrl=https://sonarcloud.io/dashboard?id=projectISPW_sonarFra
+ceTaskId=AX8B1BTxB4mQiJd8EHpR
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AX8B1BTxB4mQiJd8EHpR
