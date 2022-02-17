@@ -1,1 +1,1 @@
-A 2xmlXhr=seleniumTestAPI/.idea/libraries/Maven__junit_junit_4_13_2.xml
+A 2xmlXhr=seleniumTestAPI/.idea/libraries/Maven__junit_junit_4_13_2.xml

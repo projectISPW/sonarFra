@@ -1,1 +1,1 @@
- 2xmlXhrVseleniumTestAPI/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml
+ 2xmlXhrVseleniumTestAPI/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml

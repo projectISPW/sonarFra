@@ -1,1 +1,1 @@
-	 2xmlXhr)seleniumTestAPI/.idea/jarRepositories.xml
+	 2xmlXhr)seleniumTestAPI/.idea/jarRepositories.xml

@@ -1,1 +1,1 @@
-9 2xmlXhr]seleniumTestAPI/.idea/libraries/Maven__io_opentelemetry_opentelemetry_semconv_1_9_1_alpha.xml
+9 2xmlXhr]seleniumTestAPI/.idea/libraries/Maven__io_opentelemetry_opentelemetry_semconv_1_9_1_alpha.xml

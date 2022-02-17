@@ -1,1 +1,1 @@
-ù 2jsonXhrOseleniumTestAPI/allure-results/c2a47d17-45ad-433d-991e-d08d9ad3db71-result.json
+ù 2jsonXhrOseleniumTestAPI/allure-results/c2a47d17-45ad-433d-991e-d08d9ad3db71-result.json

@@ -1,1 +1,1 @@
-0 2xmlXhrWseleniumTestAPI/.idea/libraries/Maven__io_opentelemetry_opentelemetry_context_1_9_1.xml
+0 2xmlXhrWseleniumTestAPI/.idea/libraries/Maven__io_opentelemetry_opentelemetry_context_1_9_1.xml

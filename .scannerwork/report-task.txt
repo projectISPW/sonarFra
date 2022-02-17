@@ -3,5 +3,5 @@ projectKey=projectISPW_sonarFra
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.26843
 dashboardUrl=https://sonarcloud.io/dashboard?id=projectISPW_sonarFra
-ceTaskId=AX8HOFy3TQsIM_rZ_nAc
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AX8HOFy3TQsIM_rZ_nAc
+ceTaskId=AX8HP2ClpWdINCtLm_Ud
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AX8HP2ClpWdINCtLm_Ud

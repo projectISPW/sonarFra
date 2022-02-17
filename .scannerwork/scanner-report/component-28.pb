@@ -1,1 +1,1 @@
- 2xmlXhrSseleniumTestAPI/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml
+ 2xmlXhrSseleniumTestAPI/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml

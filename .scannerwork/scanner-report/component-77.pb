@@ -1,1 +1,1 @@
-M 2xmlXhrIseleniumTestAPI/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml
+M 2xmlXhrIseleniumTestAPI/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml

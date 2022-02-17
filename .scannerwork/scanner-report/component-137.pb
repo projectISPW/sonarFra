@@ -1,1 +1,1 @@
-‰ 2jsonXhrRseleniumTestAPI/allure-results/488b18be-7ebe-4e48-9f10-6bfddd8c22a8-container.json
+‰ 2jsonXhrRseleniumTestAPI/allure-results/488b18be-7ebe-4e48-9f10-6bfddd8c22a8-container.json

@@ -1,1 +1,1 @@
-k 2xmlXhrHseleniumTestAPI/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_33.xml
+k 2xmlXhrHseleniumTestAPI/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_33.xml

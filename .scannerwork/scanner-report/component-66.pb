@@ -1,1 +1,1 @@
-B 2xmlXhrCseleniumTestAPI/.idea/libraries/Maven__net_jodah_failsafe_2_4_4.xml
+B 2xmlXhrCseleniumTestAPI/.idea/libraries/Maven__net_jodah_failsafe_2_4_4.xml

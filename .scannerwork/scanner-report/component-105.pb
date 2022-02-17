@@ -1,1 +1,1 @@
-i 2xmlXhrYseleniumTestAPI/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_1_1.xml
+i 2xmlXhrYseleniumTestAPI/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_1_1.xml

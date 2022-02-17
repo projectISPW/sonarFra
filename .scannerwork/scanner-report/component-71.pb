@@ -1,1 +1,1 @@
-G 2xmlXhrZseleniumTestAPI/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_5_1_2.xml
+G 2xmlXhrZseleniumTestAPI/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_5_1_2.xml

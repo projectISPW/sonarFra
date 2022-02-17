@@ -1,1 +1,1 @@
-g 2xmlXhr_seleniumTestAPI/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_1_1.xml
+g 2xmlXhr_seleniumTestAPI/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_1_1.xml

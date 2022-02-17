@@ -1,1 +1,1 @@
- 2xmlXhrDseleniumTestAPI/.idea/libraries/Maven__com_beust_jcommander_1_81.xml
+ 2xmlXhrDseleniumTestAPI/.idea/libraries/Maven__com_beust_jcommander_1_81.xml

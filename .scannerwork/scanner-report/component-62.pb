@@ -1,1 +1,1 @@
-> 2xmlXhrOseleniumTestAPI/.idea/libraries/Maven__io_qameta_allure_allure_model_2_17_2.xml
+> 2xmlXhrOseleniumTestAPI/.idea/libraries/Maven__io_qameta_allure_allure_model_2_17_2.xml

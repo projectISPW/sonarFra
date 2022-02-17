@@ -1,1 +1,1 @@
-® 2javaXhrPseleniumTestAPI/src/test/java/seleniumtest/seleniumtest/TestBinaryConverter.java
+® 2javaXhrPseleniumTestAPI/src/test/java/seleniumtest/seleniumtest/TestBinaryConverter.java

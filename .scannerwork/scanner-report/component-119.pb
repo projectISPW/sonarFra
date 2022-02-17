@@ -1,1 +1,1 @@
-w 2jsonXhrRseleniumTestAPI/allure-results/03a1777f-09fa-40a3-82d6-847fe349b5b4-container.json
+w 2jsonXhrRseleniumTestAPI/allure-results/03a1777f-09fa-40a3-82d6-847fe349b5b4-container.json

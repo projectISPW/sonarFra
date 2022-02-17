@@ -1,1 +1,1 @@
-* 2xmlXhr_seleniumTestAPI/.idea/libraries/Maven__io_netty_netty_transport_classes_kqueue_4_1_70_Final.xml
+* 2xmlXhr_seleniumTestAPI/.idea/libraries/Maven__io_netty_netty_transport_classes_kqueue_4_1_70_Final.xml

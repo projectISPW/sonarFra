@@ -1,1 +1,1 @@
- 2xmlXhraseleniumTestAPI/.idea/libraries/Maven__com_google_auto_service_auto_service_annotations_1_0_1.xml
+ 2xmlXhraseleniumTestAPI/.idea/libraries/Maven__com_google_auto_service_auto_service_annotations_1_0_1.xml

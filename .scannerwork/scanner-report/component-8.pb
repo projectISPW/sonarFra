@@ -1,1 +1,1 @@
- 2xmlXÔhr%seleniumTestAPI/.idea/dbnavigator.xml
+ 2xmlXÔhr%seleniumTestAPI/.idea/dbnavigator.xml

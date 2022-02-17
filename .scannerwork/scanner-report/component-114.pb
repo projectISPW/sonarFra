@@ -1,1 +1,1 @@
-r 2xmlX|hr$seleniumTestAPI/.idea/uiDesigner.xml
+r 2xmlX|hr$seleniumTestAPI/.idea/uiDesigner.xml

@@ -1,1 +1,1 @@
-1 2xmlXhr`seleniumTestAPI/.idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_logging_1_9_1.xml
+1 2xmlXhr`seleniumTestAPI/.idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_logging_1_9_1.xml

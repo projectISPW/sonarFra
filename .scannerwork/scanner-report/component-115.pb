@@ -1,1 +1,1 @@
-s 2xmlXhrseleniumTestAPI/.idea/vcs.xml
+s 2xmlXhrseleniumTestAPI/.idea/vcs.xml

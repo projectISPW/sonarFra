@@ -1,1 +1,1 @@
-$ 2xmlXhrMseleniumTestAPI/.idea/libraries/Maven__io_netty_netty_common_4_1_70_Final.xml
+$ 2xmlXhrMseleniumTestAPI/.idea/libraries/Maven__io_netty_netty_common_4_1_70_Final.xml

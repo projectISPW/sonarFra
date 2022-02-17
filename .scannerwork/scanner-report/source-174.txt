@@ -17,7 +17,6 @@ import static org.junit.Assert.assertTrue;
         driver.findElement(By.xpath("//*[@id=\"x\"]")).sendKeys(""+input);
         driver.findElement(By.xpath("//*[@id=\"calcform\"]/div[3]/button[1]")).click();
         local=driver.findElement(By.xpath("//*[@id=\"y\"]")).getAttribute("value");
-        System.out.println("comparing .:    "+binary+"  ,   "+local);
         assertEquals(binary,local);
     }
     @Test

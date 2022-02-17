@@ -1,1 +1,1 @@
-! 2xmlXhrLseleniumTestAPI/.idea/libraries/Maven__io_netty_netty_codec_4_1_70_Final.xml
+! 2xmlXhrLseleniumTestAPI/.idea/libraries/Maven__io_netty_netty_codec_4_1_70_Final.xml

@@ -1,1 +1,1 @@
- 2xmlXhrVseleniumTestAPI/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_5_0_3.xml
+ 2xmlXhrVseleniumTestAPI/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_5_0_3.xml

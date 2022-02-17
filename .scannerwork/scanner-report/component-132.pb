@@ -1,1 +1,1 @@
-„ 2jsonXhrRseleniumTestAPI/allure-results/2d49e920-a43f-493d-be3a-7c5245b3c419-container.json
+„ 2jsonXhrRseleniumTestAPI/allure-results/2d49e920-a43f-493d-be3a-7c5245b3c419-container.json

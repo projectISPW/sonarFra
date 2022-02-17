@@ -1,1 +1,1 @@
-© 2jsonXhrRseleniumTestAPI/allure-results/f5eba090-efa2-4ef1-b2b1-a8ba7b5604e9-container.json
+© 2jsonXhrRseleniumTestAPI/allure-results/f5eba090-efa2-4ef1-b2b1-a8ba7b5604e9-container.json

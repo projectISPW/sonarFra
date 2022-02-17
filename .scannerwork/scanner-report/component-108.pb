@@ -1,1 +1,1 @@
-l 2xmlXhrseleniumTestAPI/.idea/misc.xml
+l 2xmlXhrseleniumTestAPI/.idea/misc.xml

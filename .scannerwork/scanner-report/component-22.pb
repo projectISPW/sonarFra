@@ -1,1 +1,1 @@
- 2xmlXhrPseleniumTestAPI/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml
+ 2xmlXhrPseleniumTestAPI/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml

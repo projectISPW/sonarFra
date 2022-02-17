@@ -1,1 +1,1 @@
-£ 2jsonXhrOseleniumTestAPI/allure-results/d92c9892-b418-4162-a18c-dcd411619f88-result.json
+£ 2jsonXhrOseleniumTestAPI/allure-results/d92c9892-b418-4162-a18c-dcd411619f88-result.json

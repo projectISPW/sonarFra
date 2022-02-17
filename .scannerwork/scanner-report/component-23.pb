@@ -1,1 +1,1 @@
- 2xmlXhrJseleniumTestAPI/.idea/libraries/Maven__com_google_code_gson_gson_2_8_8.xml
+ 2xmlXhrJseleniumTestAPI/.idea/libraries/Maven__com_google_code_gson_gson_2_8_8.xml

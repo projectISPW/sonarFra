@@ -1,1 +1,1 @@
- 2xmlXhrGseleniumTestAPI/.idea/libraries/Maven__com_codeborne_selenide_6_2_1.xml
+ 2xmlXhrGseleniumTestAPI/.idea/libraries/Maven__com_codeborne_selenide_6_2_1.xml

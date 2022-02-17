@@ -1,1 +1,1 @@
- 2xmlXhrJseleniumTestAPI/.idea/libraries/Maven__com_google_auto_auto_common_1_2.xml
+ 2xmlXhrJseleniumTestAPI/.idea/libraries/Maven__com_google_auto_auto_common_1_2.xml

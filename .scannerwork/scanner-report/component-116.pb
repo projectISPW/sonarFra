@@ -1,1 +1,1 @@
-t 2jsonXhrOseleniumTestAPI/allure-results/01102743-272a-473b-8553-6508f061eeb1-result.json
+t 2jsonXhrOseleniumTestAPI/allure-results/01102743-272a-473b-8553-6508f061eeb1-result.json
