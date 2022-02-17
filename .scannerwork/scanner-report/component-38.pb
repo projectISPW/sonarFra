@@ -1,0 +1,1 @@
+& 2xmlXhrTseleniumTestAPI/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_60_Final.xml

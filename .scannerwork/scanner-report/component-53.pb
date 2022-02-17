@@ -1,0 +1,1 @@
+5 2xmlXhroseleniumTestAPI/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_spi_1_9_1.xml

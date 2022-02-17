@@ -1,55 +1,0 @@
-
-[com.example.calcolatrice.ControllerCalcolatrice#check(Ljava/lang/String;)Ljava/lang/String;j
-`C:/test/sonarFra/calcolatrice/src/main/java/com/example/calcolatrice/ControllerCalcolatrice.javaC C("11*Ã
-10j
-`C:/test/sonarFra/calcolatrice/src/main/java/com/example/calcolatrice/ControllerCalcolatrice.javaI I(ËÈ
-j
-`C:/test/sonarFra/calcolatrice/src/main/java/com/example/calcolatrice/ControllerCalcolatrice.javaI I(,
-%2char[]" java.lang.String#toCharArray()[C*
-
-inputjava.lang.String2toCharArray()*
-1*á
-11j
-`C:/test/sonarFra/calcolatrice/src/main/java/com/example/calcolatrice/ControllerCalcolatrice.javaD D(&¥
-¢
-j
-`C:/test/sonarFra/calcolatrice/src/main/java/com/example/calcolatrice/ControllerCalcolatrice.javaD D('
-	charInputjava.lang.String"__id*
-0123456789.ÏÌ
-j
-`C:/test/sonarFra/calcolatrice/src/main/java/com/example/calcolatrice/ControllerCalcolatrice.javaF F(6
-%0char[]" java.lang.String#toCharArray()[C*
-
-	charInputjava.lang.String2toCharArray()Ÿ
-œ
-j
-`C:/test/sonarFra/calcolatrice/src/main/java/com/example/calcolatrice/ControllerCalcolatrice.javaF F(7
-charCalculatorchar[]"__id*
-
-%0char[]½º
-j
-`C:/test/sonarFra/calcolatrice/src/main/java/com/example/calcolatrice/ControllerCalcolatrice.javaG G(+	
-%1int"java.lang.String#length()I*
-
-inputjava.lang.String2length()Œ
-‰
-j
-`C:/test/sonarFra/calcolatrice/src/main/java/com/example/calcolatrice/ControllerCalcolatrice.javaG G(-
-outchar[]"__id*
-""*
-10*Ù
-1j
-`C:/test/sonarFra/calcolatrice/src/main/java/com/example/calcolatrice/ControllerCalcolatrice.javaT T(Þ
-Û
-j
-`C:/test/sonarFra/calcolatrice/src/main/java/com/example/calcolatrice/ControllerCalcolatrice.javaT T("
-%3java.lang.String".java.lang.String#valueOf([C)Ljava/lang/String;*"
-java.lang.String*
-
-outchar[]"†
-j
-`C:/test/sonarFra/calcolatrice/src/main/java/com/example/calcolatrice/ControllerCalcolatrice.javaT T(#
-
-%3java.lang.String:
-inputjava.lang.StringB31
-/com.example.calcolatrice.ControllerCalcolatrice

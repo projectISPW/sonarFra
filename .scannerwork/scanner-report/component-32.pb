@@ -1,1 +1,1 @@
-  2javaXhr+calcolatrice/src/main/java/module-info.java
+  2xmlXhrMseleniumTestAPI/.idea/libraries/Maven__io_netty_netty_buffer_4_1_70_Final.xml

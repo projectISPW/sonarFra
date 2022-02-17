@@ -1,1 +1,1 @@
-' 2xmlXOhr5SimpleCalculator/SimpleCalculator/.idea/workspace.xml
+' 2xmlXhrOseleniumTestAPI/.idea/libraries/Maven__io_netty_netty_resolver_4_1_70_Final.xml

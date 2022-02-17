@@ -1,0 +1,1 @@
+€ 2jsonXhrRseleniumTestAPI/allure-results/21d5d82a-fe01-4268-a51a-14dd490c7f70-container.json

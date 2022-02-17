@@ -1,1 +1,1 @@
- 2xmlXhrLcalcolatrice/.idea/libraries/Maven__org_openjfx_javafx_base_win_17_0_0_1.xml
+ 2xmlXhrGseleniumTestAPI/.idea/libraries/Maven__com_codeborne_selenide_6_2_1.xml

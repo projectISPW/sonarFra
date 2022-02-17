@@ -1,1 +1,1 @@
- 2xmlXhrPcalcolatrice/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_17_0_0_1.xml
+ 2xmlXhrUseleniumTestAPI/.idea/libraries/Maven__com_google_auto_service_auto_service_1_0_1.xml

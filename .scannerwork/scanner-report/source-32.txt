@@ -1,8 +1,13 @@
-module com.example.calcolatrice {
-    requires javafx.controls;
-    requires javafx.fxml;
-
-
-    opens com.example.calcolatrice to javafx.fxml;
-    exports com.example.calcolatrice;
-}
+<component name="libraryTable">
+  <library name="Maven: io.netty:netty-buffer:4.1.70.Final">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-buffer/4.1.70.Final/netty-buffer-4.1.70.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-buffer/4.1.70.Final/netty-buffer-4.1.70.Final-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-buffer/4.1.70.Final/netty-buffer-4.1.70.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

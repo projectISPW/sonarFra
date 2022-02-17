@@ -1,1 +1,1 @@
- 2xmlXhrWcalcolatrice/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml
+ 2xmlXhrGseleniumTestAPI/.idea/libraries/Maven__commons_io_commons_io_2_11_0.xml

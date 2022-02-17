@@ -1,0 +1,1 @@
+; 2xmlXhrVseleniumTestAPI/.idea/libraries/Maven__io_qameta_allure_allure_java_commons_2_17_2.xml

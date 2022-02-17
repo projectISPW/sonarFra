@@ -1,0 +1,1 @@
+™ 2jsonXhrRseleniumTestAPI/allure-results/afd5ca31-fd7f-48bb-ae16-89d2c2a29da3-container.json

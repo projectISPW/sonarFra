@@ -1,1 +1,1 @@
- 2xmlX|hr!calcolatrice/.idea/uiDesigner.xml
+ 2xmlXhrLseleniumTestAPI/.idea/libraries/Maven__com_google_guava_guava_31_0_1_jre.xml

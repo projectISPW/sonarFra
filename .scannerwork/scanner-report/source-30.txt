@@ -1,23 +1,13 @@
-package com.example.calcolatrice;
-
-import javafx.application.Application;
-import javafx.fxml.FXMLLoader;
-import javafx.scene.Scene;
-import javafx.stage.Stage;
-
-import java.io.IOException;
-
-public class Calcolatrice extends Application {
-    @Override
-    public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(Calcolatrice.class.getResource("calcolatrice.fxml"));
-        Scene scene = new Scene(fxmlLoader.load());
-        stage.setTitle("Hello!");
-        stage.setScene(scene);
-        stage.show();
-    }
-
-    public static void main(String[] args) {
-        launch();
-    }
-}
+<component name="libraryTable">
+  <library name="Maven: com.typesafe.netty:netty-reactive-streams:2.0.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/netty/netty-reactive-streams/2.0.4/netty-reactive-streams-2.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/netty/netty-reactive-streams/2.0.4/netty-reactive-streams-2.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/netty/netty-reactive-streams/2.0.4/netty-reactive-streams-2.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

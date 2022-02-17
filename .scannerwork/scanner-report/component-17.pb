@@ -1,1 +1,1 @@
- 2xmlXhrHcalcolatrice/.idea/libraries/Maven__org_openjfx_javafx_fxml_17_0_0_1.xml
+ 2xmlXhrYseleniumTestAPI/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_0.xml

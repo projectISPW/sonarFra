@@ -1,0 +1,1 @@
+8 2xmlXhrYseleniumTestAPI/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_trace_1_9_1.xml

@@ -1,0 +1,1 @@
+3 2xmlXhrZseleniumTestAPI/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_common_1_9_1.xml

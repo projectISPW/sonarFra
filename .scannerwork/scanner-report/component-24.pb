@@ -1,2 +1,1 @@
- 2xmlX
-hr(calcolatrice/.idea/runConfigurations.xml
+ 2xmlXhr^seleniumTestAPI/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_7_1.xml

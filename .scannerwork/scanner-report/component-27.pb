@@ -1,1 +1,1 @@
- 2xmlXhrcalcolatrice/.idea/vcs.xml
+ 2xmlXhrvseleniumTestAPI/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml

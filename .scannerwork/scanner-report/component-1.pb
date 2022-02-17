@@ -1,2 +1,2 @@
-sonarFra : 	
-'B+'https://github.com/projectISPW/sonarFraB.*https://travis-ci.org/projectISPW/sonarFraB2.https://github.com/projectISPW/sonarFra/issuesB+'https://github.com/projectISPW/sonarFraRprojectISPW_sonarFra
+sonarFra :–JF?.Ea;bd`ö*@
+P§°f•Ñnñ$kÅ}üs]_ú|YGûIyÄÇé-â %Báç64†c,0Zä+C\r{à)~<Nï´ëLMW!Rv8ATzè1"î	å>l2weSÖ©ÆQÜ9'#tXõUVó£m3=íìÉu^™O[i:&7jãgù(D®ô¶òßKH¢5hxê/B+'https://github.com/projectISPW/sonarFraB.*https://travis-ci.org/projectISPW/sonarFraB2.https://github.com/projectISPW/sonarFra/issuesB+'https://github.com/projectISPW/sonarFraRprojectISPW_sonarFra
